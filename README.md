@@ -20,6 +20,6 @@ Contributions, suggestions, and bug reports are welcome! If you'd like to contri
 If you encounter any issues with the scripts or projects, please open an issue .
 
 ## Contact
-For any questions or suggestions, feel free to contact me at [email@example.com](mailto:huseyiincenik@gmail.com).
+For any questions or suggestions, feel free to contact me at [huseyinceniik@gmail.com](mailto:huseyiincenik@gmail.com).
 
 Happy coding!
